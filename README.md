@@ -4,4 +4,4 @@
 
 GitHub Repository that stores relevant information (website components, visual art, statistical analyses etc) for the Scholars Project.
 
-Visit us at [www.scholarsproject.ro](scholarsproject.ro)
+Visit us at [www.scholarsproject.ro](https://scholarsproject.ro)
